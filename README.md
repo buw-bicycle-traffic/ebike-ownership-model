@@ -1,11 +1,11 @@
 # E-Bike-Ownership-Model-NRW-GitHub
 
-A paper associated with this code is currently under review for the HEUREKA conference 2024. Once published, the publication will be added here and can be used to reference this code. A license will also be specified then.
+A paper associated with this code is currently under review. Once published, the publication will be added here and can be used to reference this code. A license will also be specified then.
 
 
 Cells_elevar.ipynb
 
-Python code which computes the elvar attribute for 1km-Gridcells.
+Python code which computes the elevar ("slope") attribute for 1km-Gridcells.
 
 Uses the GeoGitter Inspire (https://gdz.bkg.bund.de/index.php/default/geographische-gitter-fur-deutschland-in-lambert-projektion-geogitter-inspire.html) and a dataset provided exclusively by Jan Kuchhäuser, Chair of Freight Transport Planning and Transport Logistics, University of Wuppertal.
 
@@ -23,7 +23,7 @@ Generates a csv-file with the spatial type attribute for the grid cells as well 
 
 Data_processing_Ownership.ipynb
 
-Python code which combines the B3 MiD person data with the elevar and spatial type data and processes it (clean data, create dummies etc.).
+Python code which combines the B3 MiD person data with the elevar and spatial type data and processes it (clean data, create dummies, etc.).
 
 Generates a csv-file with all person-level observations and the dependent and explanatory variables.
 
