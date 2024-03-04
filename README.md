@@ -1,5 +1,3 @@
-# E-Bike-Ownership-Model-NRW-GitHub
-
 A paper associated with this code is currently under review. Once published, the publication will be added here and can be used to reference this code. A license will also be specified then.
 
 
