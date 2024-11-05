@@ -1,7 +1,7 @@
 A paper associated with this code is currently under review. Once published, the publication will be added here and can be used to reference this code.
 
 
-01_Cells spatial typology.ipynb 
+01_spatial_type.ipynb 
 
 Python code which writes one of four RegioStaR spatial typologies to 1km-grid cells.
 
@@ -26,9 +26,9 @@ Python code which combines the B3 MiD person data with the gradient and spatial 
 Generates a csv-file with all person-level observations and the dependent and explanatory variables.
 
 
-21_mn Logit.ipynb
+21_nested Logit.ipynb
 
-Python code using Biogeme (https://transp-or.epfl.ch/documents/technicalReports/Bier23.pdf) to estimate a multinomial Logit model.
+Python code using Biogeme (https://transp-or.epfl.ch/documents/technicalReports/Bier23.pdf) to estimate a nested Logit model.
 
 
 22_mv Probit.ipynb
