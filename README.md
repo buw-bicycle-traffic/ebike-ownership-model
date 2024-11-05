@@ -19,7 +19,7 @@ Uses the GeoGitter Inspire (https://gdz.bkg.bund.de/index.php/default/geographis
 Generates a csv-file with the gradient attribute for the grid cells.
 
 
-10_Data processing.ipynb
+10_data processing.ipynb
 
 Python code which combines the B3 MiD person data with the gradient and spatial typology data and processes it (clean data, create dummies, etc.).
 
